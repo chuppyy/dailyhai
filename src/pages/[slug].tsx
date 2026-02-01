@@ -209,19 +209,19 @@ export async function getStaticProps({ params }: { params: any }) {
       //Code auto 
       googleClientId: "ca-pub-7472198107183412",
       //GA tiêu đề
-      googleClientSlotId:"8655503801",
+      googleClientSlotId:"6320984157",
       //GA sau video
-      googleAdSlot: "9856904837",
+      googleAdSlot: "3735522729",
 //Cái sau
-      mgWidgetId1: "1874143",
+      mgWidgetId1: "1945825",
       //Cái trước
-      mgWidgetId2: "1874143",
+      mgWidgetId2: "1945825",
 
-      mgWidgetFeedId: "1874142",
+      mgWidgetFeedId: "1945824",
       //scrip adkeeper
-      adsKeeperSrc: "https://jsc.adskeeper.com/site/1057740.js",
+      adsKeeperSrc: "https://jsc.adskeeper.com/site/1077877.js",
       //Analytic
-      googleTagId: "G-2VHLDVKCBY",
+      googleTagId: "G-28D67R3Z7M",
     };
 
     return {
